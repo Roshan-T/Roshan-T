@@ -94,7 +94,7 @@ hospitalBenefits() => redeemRewards()
 const contact = {
     email: "roshantiwari9827@gmail.com",
     phone: "+977 9846336783",
-    location: "Nalamukh-2, Kaski, Pokhara, Nepal"
+    location: "Pokhara, Nepal"
 }
 ```
 
