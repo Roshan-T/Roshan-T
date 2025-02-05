@@ -49,28 +49,14 @@ me.say_hi()
 
 </div>
 
-## 🏆 Featured Projects
+## 🌟 Highlighted Repositories
 
-### 🤖 Nepali Image Captioning System
-*Bridging Computer Vision and Natural Language Processing*
-- Built end-to-end image captioning system for Nepali language
-- Implemented CNN-Transformer architecture with attention mechanism
-- Achieved 0.53 BLEU-1 score on validation dataset
-```python
-# Example Architecture
-CNN_Encoder -> Feature_Extraction -> Transformer_Decoder -> Nepali_Caption
-```
+<div align="center">
 
-### ❤️ Blood Bond Platform
-*Revolutionizing Blood Donation Management*
-- Real-time emergency blood request system
-- Reward-based donation tracking
-- Hospital-specific benefit redemption system
-```javascript
-// Core Features
-emergencyAlert() => pushNotification()
-donationTracking() => rewardPoints()
-hospitalBenefits() => redeemRewards()
+  [![Question_Pair Similarity](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-T&repo=Question-Pairs-Analysis-with-NLP-ML&theme=tokyonight)](https://github.com/Roshan-T/Question-Pairs-Analysis-with-NLP-ML)
+[![BloodBond](https://github-readme-stats.vercel.app/api/pin/?username=Roshan-T&repo=BloodBond--Blood-Donation-WebApp-Using-MERN&theme=tokyonight)](https://github.com/Roshan-T/BloodBond--Blood-Donation-WebApp-Using-MERN)
+
+</div>
 ```
 
 ## 📈 GitHub Analytics
